@@ -48,6 +48,8 @@ Identify bottlenecks in shipping performance, countries with frequent delays, an
 
 **Business Insight:**
 Track loyal customers, most profitable product lines, customer purchase frequency, and geographical demand patterns.
+![Screenshot 2025-06-07 201320](https://github.com/user-attachments/assets/b41f69d0-91a5-459a-bf5f-4b5c0d8a2ef3)
+
 
 
 
